@@ -10,6 +10,6 @@ I am currently a full-stack software engineer on a mission to both broaden my sk
 I come from an untraditional background in Cognitive Science, but strive to continuously strengthen my coding skills. :)
 
 *** 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=caroline-hunt&show_icons=true&theme=transparent">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=caroline-hunt&show_icons=true&theme=transparent&hide=contribs,issues">
 <h3> Connect With Me:</h3> 
 <a href="https://www.linkedin.com/in/caroline-hunt" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
